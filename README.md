@@ -210,11 +210,15 @@ RLS is enforced at the QuickSight dataset level, ensuring secure data access.
 ## 👤 Author
 
 **Kaushik**  
+
 Data Engineer | Analytics Engineer  
+
 AWS • Glue • Athena • QuickSight • PySpark  
 
 📧 Email: kaushik.p9699@gmail.com  
+
 🌐 GitHub: https://github.com/Kaushik-Puttaswamy
+
 📍 Location: India
 
 ## 📌 Disclaimer
